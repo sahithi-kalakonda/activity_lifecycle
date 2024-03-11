@@ -27,7 +27,7 @@ Count incremented to 15:
 </br>
 </br>
 
-<img width="232" alt="image" src="https://github.com/hhh99-hub/Android_Lifecycle/blob/main/Images/pic5.png?raw=true">
+<img width="232" alt="image" src="https://github.com/sahithi-kalakonda/activity_lifecycle/blob/main/Images/pic5.jpg?raw=true">
 
 </br>
 Dialog opened:
@@ -38,7 +38,7 @@ Dialog opened:
 Count remains unchanged:
 </br>
 </br>
-<img width="232" alt="image" src="https://github.com/hhh99-hub/Android_Lifecycle/blob/main/Images/pic5.png?raw=true">
+<img width="232" alt="image" src="https://github.com/sahithi-kalakonda/activity_lifecycle/blob/main/Images/pic5.jpg?raw=true">
 
 
 
