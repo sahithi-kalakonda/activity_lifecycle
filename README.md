@@ -16,12 +16,12 @@ Activity B opened:
 </br>
 Count incremented by 5:
 </br>
-<img width="222" alt="image" src="https://github.com/hhh99-hub/Android_Lifecycle/blob/main/Images/pic3.png?raw=true">
+<img width="222" alt="image" src="https://github.com/sahithi-kalakonda/activity_lifecycle/blob/main/Images/pic3.jpg?raw=true">
 </br>
 </br>
 Activity C opened:
 </br>
-<img width="222" alt="image" src="https://github.com/hhh99-hub/Android_Lifecycle/blob/main/Images/pic4.png?raw=true">
+<img width="222" alt="image" src="https://github.com/sahithi-kalakonda/activity_lifecycle/blob/main/Images/pic4.jpg?raw=true">
 </br>
 Count incremented to 15:
 </br>
@@ -33,7 +33,7 @@ Count incremented to 15:
 Dialog opened:
 </br>
 </br>
-<img width="231" alt="image" src="https://github.com/hhh99-hub/Android_Lifecycle/blob/main/Images/pic%206%20.png?raw=true">
+<img width="231" alt="image" src="https://github.com/sahithi-kalakonda/activity_lifecycle/blob/main/Images/pic7.jpg?raw=true">
 </br>
 Count remains unchanged:
 </br>
