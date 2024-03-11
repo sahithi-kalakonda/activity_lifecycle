@@ -1,10 +1,8 @@
-CMPE-277 – Assignment 1:
+CMPE-277  Assignment
 
 Activity Lifecycle
 
-In this application, We have incremented the thread counter whenever the Main Activity restarts to demonstrate that when a new activity (Activity B, Activity C) is opened and we go back to the previous activity, onRestart() method is called. We increment the thread counter by 5.
-
-On the other hand, when a dialog Activity is opened, and we go back to the previous activity, onRestart() method is not called, so the thread counter remains unchanged.
+In our app, we've increased the thread counter each time the Main Activity restarts to show that reopening previous activities like Activity B or Activity C triggers the onRestart() method, adding 5 to the counter. However, when we open a dialog Activity and return to the previous one, onRestart() isn't invoked, leaving the thread counter unchanged.
 
 Home screen:
 
