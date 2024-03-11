@@ -14,7 +14,7 @@ Home screen:
 
 Activity B opened:
 </br>
-<img width="200" alt="image" src="https://github.com/hhh99-hub/Android_Lifecycle/blob/main/Images/pic2.png?raw=true">
+<img width="200" alt="image" src="https://github.com/sahithi-kalakonda/activity_lifecycle/blob/main/Images/pic1.jpg?raw=true">
 </br>
 Count incremented by 5:
 </br>
