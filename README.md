@@ -6,7 +6,7 @@ In our app, we've increased the thread counter each time the Main Activity resta
 
 Home screen:
 
-<img width="201" alt="image" src="https://github.com/hhh99-hub/Android_Lifecycle/blob/main/Images/pic1.png?raw=true">
+<img width="201" alt="image" src="Images/pic1.jpeg">
 
 </br>
 
